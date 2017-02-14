@@ -1,9 +1,26 @@
-<style>
-#header
-{
-    background-color:black;
-    color:white;
-    text-align:center;
-    padding:5px;
+#header{
+    background-color: none;
+    color: white;
+    text-align: center;
+    padding: 5px;
+    font:italic arial,sans-serif;
 }
-</style>
+
+#left-region{
+    line-height:30px;
+    height:100%;
+    width:22%;
+    float:left;
+    color: white;
+    padding:5px;
+    font-family: Courier New;
+}
+
+#footer{
+    background-color: none;
+    color: white;
+    clear: both;
+    text-align: center;
+    padding: 5px; 
+    font-family: Helvetica;
+}
